@@ -1,0 +1,66 @@
+.whitespace {
+	color: transparent;
+}
+
+.node {
+	display: inline;
+}
+
+.wrapper {
+	display: inline;
+}
+
+.wrapper.selected {
+	background-color: yellow;
+}
+
+.wrapper > .node.whitespace {
+	background-color: none;
+}
+
+
+.visualizer-table table {
+    width:100%;
+}
+
+.visualizer-table th {
+	white-space: nowrap;
+}
+
+.visualizer-table td, .visualizer-table th {
+	text-align: left;
+}
+
+.visualizer-table td:nth-child(n+2), .visualizer-table th:nth-child(n+2) {
+	padding-left: 20px;
+}
+
+.visualizer-table td:nth-child(2), .visualizer-table th:nth-child(2) {
+	padding-left: 30px;
+}
+
+.visualizer-table td:last-child, .visualizer-table th:last-child {
+	width: 99%;
+	padding-left: 50px;
+}
+
+.var-info .qualified-name {
+	/*font-size: 14pt;*/
+}
+
+
+.cst {
+	font-size: 15pt;
+	/*cursor: -moz-zoom-in; 
+    cursor: -webkit-zoom-in; */
+}
+
+.main {
+	font-family: 'Menlo';
+}
+
+span.doc {
+	margin-left: 15px;
+	display: block;
+}
+

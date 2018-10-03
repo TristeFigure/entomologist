@@ -1,14 +1,14 @@
 # entomologist
 
-A Clojure library designed to ... well, that part is up to you.
+A WYSIWYG debugger POC abandonned in the middle of a massive refactoring (well beyond broken, but it used to semi-work ...).
 
-## Usage
+## If only !
 
-FIXME
+![a silhouette in the distance looking like Big Foot](https://raw.githubusercontent.com/TristeFigure/entomologist/master/Debugger%20POC.png)
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2018 TristeFigure
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
